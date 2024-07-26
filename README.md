@@ -17,7 +17,7 @@
 <a href="https://twitter.com/itz__vikash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itz__vikash" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vikash maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikash maurya" height="30" width="40" /></a>
 <a href="https://instagram.com/itz_vikash_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_vikash_m" height="30" width="40" /></a>
-<a href="https://discord.gg/itzvikash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="itzvikash" height="30" width="40" /></a>
+<!-- <a href="https://discord.gg/itzvikash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="itzvikash" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
