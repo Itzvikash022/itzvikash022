@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzvikash022&label=Profile%20views&color=0e75b6&style=flat" alt="itzvikash022" /> </p>
 
-- 🔭 I’m currently working on **Nexify - A Social Media WebApp**
+- 🔭 I’m currently working on **TradeFlow - An Allround Wholesale Business Management System**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **vikash.my022@gmail.com**
 
